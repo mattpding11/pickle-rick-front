@@ -3,3 +3,5 @@
 ### Abrir esta app en el puerto 3020, de http://localhost:3020
 
 ### Mongo esta corriendo en el puerto 27020 
+
+## Enlace al back del aplicación : https://github.com/mattpding11/pickle-rick-back
