@@ -4,4 +4,4 @@
 
 ### Mongo esta corriendo en el puerto 27020 
 
-## Enlace al back del aplicación : https://github.com/mattpding11/pickle-rick-back
+## Enlace al back de la aplicación : https://github.com/mattpding11/pickle-rick-back
