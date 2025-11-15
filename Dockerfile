@@ -1,4 +1,4 @@
-FROM node:18.13.0
+FROM node:20.19.0
 
 RUN mkdir -p /usr/src/app_front
 
